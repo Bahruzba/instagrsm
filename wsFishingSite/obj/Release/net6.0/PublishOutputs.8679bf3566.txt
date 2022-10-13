@@ -1,0 +1,8 @@
+C:\Users\bbahmadov\Desktop\Files\Projects\wsFishingSite\wsFishingSite\obj\Release\net6.0\PubTmp\Out\wsFishingSite.exe
+C:\Users\bbahmadov\Desktop\Files\Projects\wsFishingSite\wsFishingSite\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\bbahmadov\Desktop\Files\Projects\wsFishingSite\wsFishingSite\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\bbahmadov\Desktop\Files\Projects\wsFishingSite\wsFishingSite\obj\Release\net6.0\PubTmp\Out\wsFishingSite.dll
+C:\Users\bbahmadov\Desktop\Files\Projects\wsFishingSite\wsFishingSite\obj\Release\net6.0\PubTmp\Out\wsFishingSite.deps.json
+C:\Users\bbahmadov\Desktop\Files\Projects\wsFishingSite\wsFishingSite\obj\Release\net6.0\PubTmp\Out\wsFishingSite.runtimeconfig.json
+C:\Users\bbahmadov\Desktop\Files\Projects\wsFishingSite\wsFishingSite\obj\Release\net6.0\PubTmp\Out\wsFishingSite.pdb
+C:\Users\bbahmadov\Desktop\Files\Projects\wsFishingSite\wsFishingSite\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
